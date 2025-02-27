@@ -6,7 +6,7 @@ I'm a Computer Science student with a passion for both low-level systems and sof
 ## What I Do  
 - Application Development – Building innovative and efficient software solutions  
 - Problem Solving – Tackling complex challenges and optimizing performance  
-- Continuous Learning – Exploring new tools, frameworks, and best practices  
+- Learning – Exploring new tools, frameworks, and best practices  
 
 ## Connect with Me  
 - LinkedIn: [linkedin.com/in/YourLinkedInUsername](https://www.linkedin.com/in/kaleb-tsefahun-016677308/)  
