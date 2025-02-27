@@ -9,6 +9,6 @@ I'm a Computer Science student with a passion for both low-level systems and sof
 - Learning – Exploring new tools, frameworks, and best practices  
 
 ## Connect with Me  
-- LinkedIn: [linkedin.com/in/YourLinkedInUsername](https://www.linkedin.com/in/kaleb-tsefahun-016677308/)  
-- Telegram: [t.me/YourTelegramUsername](https://t.me/kalutm)  
+- LinkedIn: [linkedin](https://www.linkedin.com/in/kaleb-tsefahun-016677308/)  
+- Telegram: [Telegram](https://t.me/kalutm)  
 - Email: kalebtesfahun@gmail.com
