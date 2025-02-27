@@ -11,4 +11,4 @@ I'm a Computer Science student with a passion for both low-level systems and sof
 ## Connect with Me  
 - LinkedIn: [linkedin](https://www.linkedin.com/in/kaleb-tsefahun-016677308/)  
 - Telegram: [Telegram](https://t.me/kalutm)  
-- Email: [Email](kalebtesfahun@gmail.com)
+- Email: [kalebtesfahun@gmail.com](mailto:kalebtesfahun@gmail.com)
